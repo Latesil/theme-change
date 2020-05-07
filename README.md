@@ -9,7 +9,7 @@ Theme-switcher automatically can switch your:
 - Wallpapers
 - More will come...
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Latesil/theme-switcher/master/theme-switcher-screenshot-1.png" style="max-width:666px;">
+  <img src="https://raw.githubusercontent.com/Latesil/theme-switcher/master/theme-switcher-screenshot-1.png" style="max-width:100%;">
 </p>
 
 ### Prerequisites for building from source
