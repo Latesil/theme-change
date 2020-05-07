@@ -41,7 +41,7 @@ theme-switcher-gui
 
 - Enable: `systemctl --user enable --now theme-switcher-auto.timer`
 
-- Disable: `systemctl --user disable --now theme-switcher-auto.timer`Screenshot-in-the-center
+- Disable: `systemctl --user disable --now theme-switcher-auto.timer`
 
 #### Manually:
 
