@@ -8,8 +8,9 @@ Theme-switcher automatically can switch your:
 - GNOME Terminal profiles
 - Wallpapers
 - More will come...
-
-<div style="text-align: center;"><IMG SRC="theme-switcher-screenshot-1.png" ALT="image"></div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Latesil/theme-switcher/master/theme-switcher-screenshot-1.png" style="max-width:666px;">
+</p>
 
 ### Prerequisites for building from source
 
@@ -40,7 +41,7 @@ theme-switcher-gui
 
 - Enable: `systemctl --user enable --now theme-switcher-auto.timer`
 
-- Disable: `systemctl --user disable --now theme-switcher-auto.timer`
+- Disable: `systemctl --user disable --now theme-switcher-auto.timer`Screenshot-in-the-center
 
 #### Manually:
 
