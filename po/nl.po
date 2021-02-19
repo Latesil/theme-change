@@ -1,0 +1,233 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-31 18:37+0300\n"
+"PO-Revision-Date: 2021-02-19 12:20+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl\n"
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:6
+msgid "Is files sorted"
+msgstr "Of bestanden gesorteerd zijn"
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:7
+msgid "Only for internal usage."
+msgstr "Alleen voor intern gebruik."
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:11
+msgid "Is photo sort active"
+msgstr "Of fotosortering is ingeschakeld"
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:12
+msgid "Check if photo sorting feature is active"
+msgstr "Controleer of fotosortering is ingeschakeld"
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:16
+msgid "Adds user described folders"
+msgstr "Voegt eigen opgegeven mappen toe"
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:17
+msgid "Check if user folders section is active"
+msgstr "Controleer of de sectie met eigen mappen is ingeschakeld"
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:21
+msgid "File sort by category"
+msgstr "Bestanden sorteren op categorie"
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:22
+msgid "Determines if files should be sorted by category instead by extension."
+msgstr ""
+"Bepaalt of bestanden moeten worden gesorteerd op categorie in plaats van "
+"extensie."
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:26
+msgid "Saved folders list"
+msgstr "Opgeslagenmappenlijst"
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:27
+msgid "A list of the folders which are saved."
+msgstr "Een lijst met opgeslagen mappen."
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:31
+msgid "Saved user folders list"
+msgstr "Opgeslagen eigen mappen"
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:32
+msgid "A list of the user folders which are saved."
+msgstr "Een lijst met opgeslagen eigen mappen."
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:36
+msgid "Operations was done"
+msgstr "Alle handelingen zijn afgerond"
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:37
+msgid "A list of operations was done in one sorting transaction."
+msgstr "Een lijst met handelingen die tijdens het sorteren zijn afgerond."
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:41
+msgid "Folders made"
+msgstr "Aangemaakte mappen"
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:42
+msgid ""
+"A list of the folders that was made by one operation. For internal usage."
+msgstr ""
+"Een lijst met mappen die tijdens de handelingen zijn aangemaakt. Alleen "
+"voor intern gebruik."
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:46
+msgid "How to sort photos"
+msgstr "Foto's sorteren"
+
+#: ../data/com.github.Latesil.folder-cleaner.gschema.xml:47
+msgid ""
+"Determines how to sort photos, for example by date or by other EXIF "
+"information"
+msgstr ""
+"Bepaalt hoe foto's worden gesorteerd, bijv. op datum of op basis van andere "
+"exif-informatie"
+
+#: ../foldercleaner/preferences.ui:12
+msgid "Files"
+msgstr "Bestanden"
+
+#: ../foldercleaner/preferences.ui:19
+msgid "File sort"
+msgstr "Bestanden sorteren"
+
+#: ../foldercleaner/preferences.ui:20
+msgid "How to sort files."
+msgstr "Hoe bestanden moeten worden gesorteerd."
+
+#: ../foldercleaner/preferences.ui:31
+msgid "By Extension"
+msgstr "Op extensie"
+
+#: ../foldercleaner/preferences.ui:32
+msgid "By Type"
+msgstr "Op bestandstype"
+
+#: ../foldercleaner/preferences.ui:42
+msgid "User folders"
+msgstr "Eigen mappen"
+
+#: ../foldercleaner/preferences.ui:43
+msgid "Add user defined folders."
+msgstr "Voeg eigen mappen toe."
+
+#: ../foldercleaner/preferences.ui:58
+msgid "Add user folders"
+msgstr "Eigen mappen toevoegen"
+
+#: ../foldercleaner/preferences.ui:71
+msgid "Add"
+msgstr "Toevoegen"
+
+#: ../foldercleaner/preferences.ui:83
+msgid "Clear all"
+msgstr "Alles wissen"
+
+#: ../foldercleaner/preferences.ui:107
+msgid "Photos"
+msgstr "Foto's"
+
+#: ../foldercleaner/preferences.ui:114
+msgid "Photo sort"
+msgstr "Foto's sorteren"
+
+#: ../foldercleaner/preferences.ui:115
+msgid "Enable photo sort."
+msgstr "Schakel fotosortering in."
+
+#: ../foldercleaner/preferences.ui:130
+msgid "Photo sort method"
+msgstr "Sorteervolgorde"
+
+#: ../foldercleaner/preferences.ui:131
+msgid "How to sort photos."
+msgstr "Hoe foto's worden gesorteerd."
+
+#: ../foldercleaner/preferences.ui:142
+msgid "By Date"
+msgstr "Op datum"
+
+#: ../foldercleaner/aboutdialog.ui:12
+msgid "Program for folder management"
+msgstr "Toepassing voor mappenbeheer"
+
+#: ../foldercleaner/window.py:36 ../foldercleaner/window.py:38
+#: ../foldercleaner/folder_cleaner.ui:60
+msgid "Folder Cleaner"
+msgstr "Mapschoonmaker"
+
+#: ../foldercleaner/window.py:62
+msgid "Open Folder"
+msgstr "Map openen"
+
+#: ../foldercleaner/window.py:65
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: ../foldercleaner/window.py:66
+msgid "OK"
+msgstr "Oké"
+
+#: ../foldercleaner/folder_cleaner.ui:19
+msgid "Preferences"
+msgstr "Voorkeuren"
+
+#: ../foldercleaner/folder_cleaner.ui:33
+msgid "About"
+msgstr "Over"
+
+#: ../foldercleaner/folder_cleaner.ui:139
+msgid ""
+"Click Add to choose a folder\n"
+"or drag folder here."
+msgstr ""
+"Klik op 'Toevoegen' om een map te kiezen\n"
+"of sleep een map hierheen."
+
+#: ../foldercleaner/folder_cleaner.ui:205
+msgid "Files were sorted."
+msgstr "De bestanden zijn gesorteerd."
+
+#: ../foldercleaner/folder_cleaner.ui:215
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+#: ../foldercleaner/folder_box.ui:30
+msgid "Open folder"
+msgstr "Map openen"
+
+#: ../foldercleaner/folder_box.ui:46
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: ../foldercleaner/folder_box.ui:79
+msgid "Sort Photos"
+msgstr "Foto's sorteren"
+
+#: ../foldercleaner/folder_box.ui:82
+msgid "Sort photos in folder"
+msgstr "Foto's in map sorteren"
+
+#: ../foldercleaner/folder_box.ui:93
+msgid "Sort Files"
+msgstr "Bestanden sorteren"
+
+#: ../foldercleaner/folder_box.ui:97
+msgid "Sort files in folder"
+msgstr "Bestanden in map sorteren"
